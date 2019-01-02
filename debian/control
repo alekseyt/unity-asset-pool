@@ -1,0 +1,59 @@
+Source: unity-asset-pool
+Section: gnome
+Priority: optional
+Maintainer: Kenneth Wimer <kwwii@ubuntu.com>
+Build-Depends: debhelper (>= 9),
+               python-scour,
+               icon-naming-utils
+Standards-Version: 3.9.1
+HomePage: https://launchpad.net/unity-asset-pool
+# If you aren't a member of ~unity-team but need to upload packaging changes,
+# just go ahead.  ~unity-team will notice and sync up the code again.
+Vcs-Bzr: https://code.launchpad.net/~unity-team/unity-asset-pool/trunk
+
+Package: unity-asset-pool
+Architecture: all
+Depends: ${misc:Depends},
+         adwaita-icon-theme,
+         hicolor-icon-theme
+Provides: unity-icon-theme
+Replaces: account-plugin-icons (<= 0.10bzr13.02.27-0ubuntu1),
+          account-plugin-google (<= 0.10bzr13.02.27-0ubuntu1),
+          account-plugin-facebook (<= 0.10bzr13.02.27-0ubuntu1),
+          account-plugin-twitter (<= 0.10bzr13.02.27-0ubuntu1),
+          account-plugin-flickr (<= 0.10bzr13.02.27-0ubuntu1),
+          account-plugin-identica (<= 0.10bzr13.02.27-0ubuntu1),
+          account-plugin-foursquare (<= 0.10bzr13.02.27-0ubuntu1),
+          account-plugin-windows-live (<= 0.10bzr13.02.27-0ubuntu1),
+          account-plugin-sohu (<= 0.10bzr13.02.27-0ubuntu1),
+          account-plugin-sina (<= 0.10bzr13.02.27-0ubuntu1),
+          unity-webapps-common (<= 2.4.13-0ubuntu1),
+          unity-scope-calculator,
+          unity-scope-colourlovers,
+          unity-scope-deviantart,
+          unity-scope-gallica,
+          unity-scope-github,
+          unity-scope-googlenews,
+          unity-scope-imdb,
+          unity-scope-launchpad,
+          unity-scope-manpages,
+          unity-scope-openclipart,
+          unity-scope-openweathermap,
+          unity-scope-soundcloud,
+          unity-scope-virtualbox,
+          unity-scope-yahoostock,
+          unity-scope-yelp,
+Breaks: account-plugin-icons (<= 0.10bzr13.02.27-0ubuntu1),
+        account-plugin-google (<= 0.10bzr13.02.27-0ubuntu1),
+        account-plugin-facebook (<= 0.10bzr13.02.27-0ubuntu1),
+        account-plugin-twitter (<= 0.10bzr13.02.27-0ubuntu1),
+        account-plugin-flickr (<= 0.10bzr13.02.27-0ubuntu1),
+        account-plugin-identica (<= 0.10bzr13.02.27-0ubuntu1),
+        account-plugin-foursquare (<= 0.10bzr13.02.27-0ubuntu1),
+        account-plugin-windows-live (<= 0.10bzr13.02.27-0ubuntu1),
+        account-plugin-sohu (<= 0.10bzr13.02.27-0ubuntu1),
+        account-plugin-sina (<= 0.10bzr13.02.27-0ubuntu1),
+        unity-webapps-common (<= 2.4.13-0ubuntu1)
+Description: Unity Assets Pool
+ Includes icons and other images for Unity
+

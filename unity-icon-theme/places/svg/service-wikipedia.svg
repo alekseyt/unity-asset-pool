@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="scope-wikipedia.svg">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       id="perspective2447"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective2846" />
+    <inkscape:perspective
+       id="perspective2824"
+       inkscape:persp3d-origin="32 : 21.333333 : 1"
+       inkscape:vp_z="64 : 32 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 32 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       x1="426.90356"
+       y1="422.19724"
+       x2="304.28552"
+       y2="306.99435"
+       id="linearGradient10228"
+       xlink:href="#linearGradient10230"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient10230">
+      <stop
+         style="stop-color: rgb(0, 0, 0); stop-opacity: 1;"
+         offset="0"
+         id="stop10232" />
+      <stop
+         style="stop-color: rgb(95, 95, 95); stop-opacity: 1;"
+         offset="1"
+         id="stop10234" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(0.086818,0,0,0.086818,-21.445005,1008.71)"
+       y2="306.99435"
+       x2="304.28552"
+       y1="422.19724"
+       x1="426.90356"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3047"
+       xlink:href="#linearGradient10230"
+       inkscape:collect="always" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#888888"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="37.947076"
+     inkscape:cx="19.020209"
+     inkscape:cy="10.637183"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1029"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-grids="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="8"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1028.3622)">
+    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 5 4 C 4.446 4 4 4.446 4 5 L 4 19 C 4 19.554 4.446 20 5 20 L 19 20 C 19.554 20 20 19.554 20 19 L 20 5 C 20 4.446 19.554 4 19 4 L 5 4 z M 4.96875 7 L 8.65625 7 L 8.96875 7 L 12.3125 7 L 12.65625 7 L 15.34375 7 L 15.34375 7.25 C 14.997716 7.312 14.709057 7.43515 14.53125 7.59375 C 14.276531 7.82925 14.072031 8.2021 13.875 8.6875 L 12.84375 11.1875 L 14.40625 14.78125 L 16.71875 9.09375 C 16.944616 8.53625 17.062492 8.18505 17.0625 7.96875 C 17.0625 7.95875 17.063021 7.91725 17.0625 7.90625 C 17.0613 7.89325 17.03365 7.888 17.03125 7.875 C 17.02745 7.858 17.03715 7.8295 17.03125 7.8125 C 17.02635 7.8005 17.0061 7.762 17 7.75 C 16.9934 7.738 16.97645 7.73175 16.96875 7.71875 C 16.96055 7.70575 16.9468 7.66825 16.9375 7.65625 C 16.9309 7.64625 16.91335 7.636 16.90625 7.625 C 16.88788 7.604 16.86553 7.5815 16.84375 7.5625 C 16.704373 7.4327 16.456597 7.33425 16.125 7.28125 C 16.10097 7.28125 16.05767 7.261 16 7.25 L 16 7 L 19.03125 7 L 19.03125 7.25 C 18.685217 7.313 18.427807 7.43515 18.25 7.59375 C 17.99528 7.82915 17.759532 8.2022 17.5625 8.6875 L 14.15625 17 L 13.875 17 L 12.125 12.9375 L 10.46875 17 L 10.1875 17 L 6.53125 8.5625 C 6.3555348 8.157 6.234814 7.89105 6.15625 7.78125 L 6.125 7.78125 C 6.0048516 7.63235 5.8653171 7.5195 5.6875 7.4375 C 5.5144881 7.3505 5.2667122 7.274 4.96875 7.25 L 4.96875 7 z M 8.78125 7.28125 C 8.4419003 7.32625 8.2072856 7.407 8.09375 7.5 C 8.047492 7.539 7.999105 7.58 7.96875 7.625 C 7.958237 7.642 7.94591 7.6695 7.9375 7.6875 C 7.92764 7.7105 7.91283 7.75725 7.90625 7.78125 C 7.895611 7.82525 7.874999 7.8885 7.875 7.9375 C 7.8749973 8.1778 7.9976776 8.52185 8.21875 9.03125 L 10.71875 14.78125 L 11.78125 12.15625 L 10.21875 8.5625 C 10.043036 8.157 9.922313 7.89105 9.84375 7.78125 L 9.8125 7.78125 C 9.6923525 7.63235 9.5528163 7.5195 9.375 7.4375 C 9.2484862 7.3745 9.0995805 7.31125 8.90625 7.28125 L 8.875 7.28125 L 8.84375 7.28125 L 8.78125 7.28125 z M 12.4375 7.28125 C 12.110597 7.32625 11.892264 7.409 11.78125 7.5 C 11.735 7.539 11.6866 7.58 11.65625 7.625 C 11.64573 7.642 11.6334 7.6695 11.625 7.6875 C 11.6151 7.7105 11.60035 7.75725 11.59375 7.78125 C 11.58308 7.82525 11.593749 7.8885 11.59375 7.9375 C 11.593748 8.1779 11.68518 8.52175 11.90625 9.03125 L 12.5 10.40625 L 13 9.09375 C 13.225864 8.53635 13.343741 8.18495 13.34375 7.96875 C 13.34375 7.95875 13.34427 7.9485 13.34375 7.9375 C 13.34255 7.9245 13.34615 7.887 13.34375 7.875 C 13.33995 7.858 13.3184 7.8295 13.3125 7.8125 C 13.3076 7.8005 13.3186 7.762 13.3125 7.75 C 13.3059 7.738 13.28895 7.73175 13.28125 7.71875 C 13.27305 7.70575 13.2593 7.66925 13.25 7.65625 C 13.2434 7.64625 13.22585 7.636 13.21875 7.625 C 13.20038 7.604 13.17802 7.5815 13.15625 7.5625 C 13.018617 7.4343 12.762579 7.33425 12.4375 7.28125 z "
+       transform="translate(0,1028.3622)"
+       id="path2998" />
+  </g>
+</svg>
